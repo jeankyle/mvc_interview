@@ -1,11 +1,11 @@
 {
-  "name": "mbonea/mvc",
-  "description": "An MVC structure for personal study",
-  "keywords": ["php", "framework", "mvc", "oop"],
+  "name": "mbonea/diy",
+  "description": "A DIY structure for personal study",
+  "keywords": ["php", "framework", "diy", "oop"],
   "authors": [
     {
       "name": "asiyejulikana",
-      "email": "nobody@example.com",
+      "email": "simplygenius78@gmail.com",
       "role": "Owner and Developer"
     }
   ],
@@ -18,7 +18,6 @@
   "autoload": {
     "psr-4": {
       "Abc\\": "Core/",
-      "_Modules\\": "_Modules/",
       "App\\": "App/"
     }
   }
